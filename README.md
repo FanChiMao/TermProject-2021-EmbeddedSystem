@@ -1,4 +1,4 @@
-# Real Time Streaming on the Arduino Car with Andoird App Controller
+# Real Time Streaming on the Arduino Car with Android App Controller
 
 ## Arduino car
 - `btCar.ino` arduino小車程式碼  
